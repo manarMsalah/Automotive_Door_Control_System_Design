@@ -1,5 +1,6 @@
 # Automotive_Door_Control_System_Design
-#Hardware requirements:
+
+Hardware requirements:
 
 1- Two microcontrollers connected via CAN bus.
 2- One Door sensor (D).
