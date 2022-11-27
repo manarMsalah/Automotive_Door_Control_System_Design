@@ -1,6 +1,6 @@
 # Automotive_Door_Control_System_Design
 
-Hardware requirements:
+## Hardware requirements:
 
 1- Two microcontrollers connected via CAN bus.
 
@@ -19,7 +19,7 @@ Hardware requirements:
 8- ECU 2 connected to RL, LL, and B, all output devices.
 
 
-Software requirements:
+## Software requirements:
 
 1- ECU 1 will send status messages periodically to ECU 2 through the CAN protocol.
 
